@@ -1,6 +1,6 @@
 # Overview
 
-We've made a Walkie-Talkie using the ESP32.
+For now, this is a fork of [this great project](https://github.com/atomic14/esp32-walkie-talkie) - an ESP32-based intercom/walkie-talkie. Original readme follows for completeness, but it's not my project...
 
 [Explanatory video](https://www.youtube.com/watch?v=d_h38X4_eQQ)
 
